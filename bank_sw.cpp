@@ -1,5 +1,11 @@
 #include <iostream>
 using namespace std;
+class bank
+{
+    int sb;
+    public:
+    
+};
 int main()
 {
     int i, n, d, w, sb = 2500;
